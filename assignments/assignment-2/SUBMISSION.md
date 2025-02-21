@@ -1,6 +1,6 @@
 # CSC 317 Assignment 2 Submission
 
-**Name:** Robert Bierman  
+**Name:** Matthew Tong
 **Student ID:** 900######  
 **GitHub Username:** bierman  
 **Assignment Number:** 2  
